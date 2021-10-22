@@ -1,0 +1,31 @@
+body{
+    background-color: #EADCA6;
+}
+div{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    background-color: #EADCA6;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #C36A2D;
+}
+form{
+    text-align: center;
+}
+button{
+   background-color: #EADCA6;
+   border-color: #C36A2D;
+
+}
+.footer{
+    margin-top: 50px;
+    
+}
+.footer p{
+    font-weight: lighter;
+    font-family: monospace;
+    
+    
+}
